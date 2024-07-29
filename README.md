@@ -129,3 +129,9 @@ mvn spring-boot:run
 
 **Sample Response:**
 `{"message": "Cart {id} deleted"}`
+
+## Tests
+Command to run tests for the application:
+```
+mvn test
+```
